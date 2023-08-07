@@ -1,6 +1,5 @@
 # Project-Exploratory-Data-Analysis-On-Superstore-Dataset
-## IBM Edunet Data Analysis Internship Project
-### Project overview:
+## Project overview:
 The Analysis of Sample Superstore Dataset project aims to leverage data analytics techniques to gain insights into the sales data of Sample Superstore, a retail company. The project involves analyzing a provided dataset containing information about customers, products, and transactions over a specific period.
 
 The primary objectives of the project are as follows:
