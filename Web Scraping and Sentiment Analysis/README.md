@@ -1,4 +1,4 @@
-# Web Scraping-Data cleaning-Feature Extraction-Sentiment Analysis
+# Web Scraping Extraction-Sentiment Analysis
 # Web scraping using BeautifulSoup
 # Step 01: Import Libraries
 The most important libraries for web scraping and data preprocessing are as follows ;
